@@ -1,4 +1,4 @@
-# vue-date-picker
+# Vue Calendar Example
 
 # Prerequisite
 
